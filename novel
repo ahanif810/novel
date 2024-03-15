@@ -1,0 +1,8 @@
+# novel
+demo
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x696453A6ea3A6D9e906054A7e61627446c8bb3CE'
+quorum: 1
